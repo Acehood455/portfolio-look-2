@@ -214,7 +214,7 @@ const Hero = () => {
         {/* 3d */}
         <Canvas>
           <Suspense fallback='Loading...'>
-            {/* <Shape /> */}
+            <Shape /> 
           </Suspense>
         </Canvas>
         <div className="hImg">
